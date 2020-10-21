@@ -14,7 +14,6 @@
     /*  How to center text vertically and horizontally
         Found on StackOverflow: https://stackoverflow.com/a/5703632
     */
-    vertical-align: middle;
     line-height: 80px;
 }
 
