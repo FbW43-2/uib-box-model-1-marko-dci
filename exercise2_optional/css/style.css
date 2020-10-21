@@ -1,0 +1,38 @@
+/* ------------------------------------------------------ */
+/* Box */
+
+.box {
+    width: 95%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.box.inner {
+    height: 80px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 80px;
+}
+
+/* ------------------------------------------------------ */
+/* Background */
+
+.background-grey {
+    background-color: lightgray;
+}
+
+.background-green {
+    background-color: green;
+}
+
+.background-white {
+    background-color: white;
+}
+
+/* ------------------------------------------------------ */
+/* Border */
+
+.border-dashed {
+    border: dashed 2px gray;
+}

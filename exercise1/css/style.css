@@ -1,0 +1,24 @@
+.box-outer {
+    width: 600px;
+    height: 200px;
+    background-color: beige;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.box-inner {
+    width: 400px;
+    background-color: white;
+    height: 120px;
+    margin: 0 auto;
+
+    /*  How to center text vertically and horizontally
+        Found on StackOverflow: https://stackoverflow.com/a/5703632
+    */
+    text-align: center;
+    vertical-align: middle;
+    line-height: 120px;
+
+    border: 2px dashed grey;
+}
+
