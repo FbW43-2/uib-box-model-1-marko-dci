@@ -38,3 +38,24 @@
 .border-dashed {
     border: dashed 2px gray;
 }
+
+/* ------------------------------------------------------ */
+/* Others... */
+
+main {
+    margin: 40px 0;
+}
+
+header {
+    border-bottom: solid 1px grey;
+    
+}
+
+header > .header-menu {
+    float: right;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
